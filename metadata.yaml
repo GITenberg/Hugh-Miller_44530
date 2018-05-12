@@ -1,0 +1,36 @@
+_repo: Hugh-Miller_44530
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brown, Joseph
+    gutenberg_agent_id: '42796'
+    url: http://www.gutenberg.org/2009/agents/42796
+covers:
+- cover_type: archival
+  image_path: 44530-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leask, W. Keith (William Keith)
+    alias: Leask, William Keith
+    birthdate: 1857
+    deathdate: 1925
+    gutenberg_agent_id: '34035'
+    url: http://www.gutenberg.org/2009/agents/34035
+    wikipedia: http://en.wikipedia.org/wiki/William_Keith_Leask
+description: ''
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2013-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 3
+subjects:
+- !lcsh 'Miller, Hugh, 1802-1856'
+- !lcc 'QE'
+- !lcsh 'Geologists -- Scotland -- Biography'
+title: Hugh Miller
+url: http://www.gutenberg.org/ebooks/44530
